@@ -4,9 +4,9 @@ Integração com o Firebase para processo de criação de usuário e autenticaç
 
 ## tools
 
-Visual Studio Code
-Firebase
-Flutter
+- Visual Studio Code
+- Firebase
+- Flutter
 
 ## Getting Started
 
