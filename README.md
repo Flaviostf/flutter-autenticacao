@@ -1,11 +1,11 @@
 # autenticacao
 
-Integração com o Firebase para processo de criação de usuário e autenticação.
+Integração do Flutter com a funcionalidade de Authentication do Firebase.
 
 ## tools
 
+- Flutter
 - Visual Studio Code
 - Firebase
-- Flutter
 
 
